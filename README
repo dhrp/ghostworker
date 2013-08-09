@@ -1,1 +1,5 @@
-This file was created by PyCharm 2.7.3 for binding GitHub repository
+Ghostworker
+===========
+
+A little mini API. It is not a real Docker Daemon, but pretends to be, for the purpose of the
+docker tutorial.
